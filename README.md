@@ -1,4 +1,6 @@
 # HR Boost Dashboard
+Public Repo Link
+https://github.com/biswasroshan/hr-boost-dashboard
 
 ![HR Boost Dashboard Logo](./public/dashboard.png "HR Boost Dashboard")
 
