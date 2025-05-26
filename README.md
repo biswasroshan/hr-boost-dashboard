@@ -1,25 +1,31 @@
 # HR Boost Dashboard
 
+![HR Boost Dashboard Logo](./public/dashboard.png "HR Boost Dashboard")
+
 A modern HR management dashboard built with React and TypeScript, designed to streamline HR operations and improve employee management.
 
 ## Features
 
 - **Employee Management**
+  ![Employee Management](./public/Teammember.png "Employee Management Dashboard")
   - View and manage employee profiles
   - Track employee attendance and leave
   - Performance monitoring and reviews
 
 - **Dashboard Analytics**
+  ![Dashboard Analytics](./public/Analytics.png "Analytics Dashboard")
   - Real-time HR metrics and KPIs
   - Department-wise analytics
   - Employee engagement insights
 
 - **Document Management**
+  ![Document Management](./public/UserInfo.png "Document Management")
   - Secure storage of employee documents
   - Automated document generation
   - Digital signature support
 
 - **User Management**
+  ![User Management](./public/Bookmark.png "User Management")
   - Role-based access control
   - Secure authentication
   - User activity tracking
